@@ -35,7 +35,7 @@ ___
 
 
 # 🐍 My GitHub Contribution Snake
-![snake gif](https://github.com/Yash9385/Yash9385/blob/output/github-snake-dark.svg)
+
 
 
 
