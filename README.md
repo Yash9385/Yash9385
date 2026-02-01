@@ -20,12 +20,6 @@ ___
 
 ### 📊 **GitHub Stats:**
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash9385&layout=compact&theme=radical&title_color=ff7a0d&text_color=f6f6f6&bg_color=0d1117&hide_border=true" 
-    alt="Yash's Top Languages" 
-    width="420" />
-</div>
 
 
 
